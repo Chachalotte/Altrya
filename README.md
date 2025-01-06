@@ -4,8 +4,10 @@
 
 Le projet Altrya a été réalisé sous Angular 18 côté front-end.
 
-NestJS est utilisé pour le back-end (trouvable ici https://github.com/Chachalotte/altrya_backend)
+# Améliorations et features à mettre en place
 
-Postgresql est utilisé pour les appels en API. 
+NestJS  pour le back-end (trouvable ici https://github.com/Chachalotte/altrya_backend)
 
-Auth0 est utilisé pour l'authentification.
+Postgresql sera utilisé pour les appels en API. 
+
+Auth0 sera utilisé pour l'authentification d'yn utilisateur.
